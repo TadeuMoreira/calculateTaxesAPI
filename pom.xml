@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.personal</groupId>
 	<artifactId>calculateTaxes</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>calculateTaxes</name>
 	<description>API Service to calculate taxes from a list of buy and sell operations</description>
 	<url/>
